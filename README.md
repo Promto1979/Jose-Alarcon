@@ -1,6 +1,6 @@
 # ¡Hola! Soy Jose Alarcon 👋
 
-### QA Analyst | Full-Stack Developer | Founder of Kaffee Code S.A.S. ☕💻
+### QA Analyst | Full-Stack Developer | Founder of Paramo Labs S.A.S. ☕💻
 
 Soy un desarrollador y analista QA apasionado por la tecnología automotriz. Actualmente, estoy enfocado en la calidad de software en **Gopass** y liderando el desarrollo de **DentalSync**, una solución integral para la gestión odontológica.
 
