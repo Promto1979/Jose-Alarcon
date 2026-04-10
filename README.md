@@ -33,11 +33,11 @@ Soy un desarrollador y analista QA apasionado por la tecnología automotriz y la
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Promto1979&show_icons=true&theme=radical" alt="Estadísticas de Jose" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Promto1979&theme=radical" alt="Racha de Jose" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Promto1979&show_icons=true&theme=radical" alt="Estadísticas de Jose" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Promto1979&theme=radical" alt="Racha de Jose" />
 </p>
