@@ -1,8 +1,8 @@
-# ¡Hola! Soy Jose Alarcon 👋
+# ¡Hola! Soy Jose Alarcón 👋
 
-### QA Analyst | Full-Stack Developer | Founder of Paramo Labs S.A.S. ☕💻
+### QA Analyst | Full-Stack Developer | Founder of Paramo Labs S.A.S. 🏔️💻
 
-Soy un desarrollador y analista QA apasionado por la tecnología automotriz. Actualmente, estoy enfocado en la calidad de software en **Gopass** y liderando el desarrollo de **DentalSync**, una solución integral para la gestión odontológica.
+Soy un desarrollador y analista QA apasionado por la tecnología automotriz y las soluciones empresariales. Actualmente, aseguro la calidad en **Gopass** y lidero proyectos innovadores bajo el sello de **Paramo Labs**.
 
 ---
 
@@ -16,18 +16,25 @@ Soy un desarrollador y analista QA apasionado por la tecnología automotriz. Act
 
 ---
 
-## 🚀 Proyectos en Marcha
+## 🚀 Proyectos Destacados
 
-* **[DentalSync](https://github.com/Promto1979/DentalSync):** Sistema administrativo para clínicas odontológicas.
-* **Kaffee Code S.A.S.:** Mi startup de desarrollo de software.
-* **Gopass CX:** Asegurando la calidad en servicios transaccionales vehiculares.
+* **[DentalSync](https://github.com/Promto1979/DentalSync):** Sistema integral para la gestión de clínicas odontológicas.
+* **Módulo PQRS:** Sistema automatizado para la gestión de Peticiones, Quejas, Reclamos y Sugerencias, optimizando la trazabilidad y respuesta al cliente.
+* **Gopass CX:** QA Testing enfocado en la experiencia de usuario para servicios vehiculares.
+* **Paramo Labs S.A.S.:** Mi propia factoría de software donde convertimos ideas en código.
 
 ---
 
 ## 🏁 Un poco más de mí...
-* 🏎️ Fanático de la **F1** (esperando la temporada 2026 con toda).
-* 🎮 Gamer y amante del senderismo.
-* 📍 Basado en Suba, Bogotá.
+* 🏎️ Fanático de la **F1** (contando los días para la temporada 2026).
+* 🎮 Gamer y amante del senderismo por los cerros de Bogotá.
+* 📍 Orgullosamente desde **Suba, Bogotá**.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Promto1979&show_icons=true&theme=radical" alt="Estadísticas de Jose" />
+</p>
 
 ---
 
