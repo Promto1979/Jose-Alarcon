@@ -71,7 +71,7 @@ Aplicación en fase de desarrollo bajo la sombrilla de Paramo Labs S.A.S. para l
 
 ## 📬 Contacto
 * **LinkedIn:** [Perfil Profesional](https://www.linkedin.com/in/jose-alarcon-arco-93352725/)
-* **Email:** ciro0279@gmail.com
+* **Email:** promto1979@gmail.com
 
 <p align="center">
   <a href="mailto:tu-correo@ejemplo.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
