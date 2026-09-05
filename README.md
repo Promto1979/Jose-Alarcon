@@ -1,6 +1,6 @@
 # ¡Hola! Soy Jose Alarcón 👋
 
-### **Senior QA Analyst | Full-Stack Developer | Founder of Paramo Labs S.A.S. 🏔️💻**
+### **QA Analyst | Full-Stack Developer | Founder of Paramo Labs S.A.S. 🏔️💻**
 
 Soy un desarrollador y analista QA con un enfoque estratégico en la optimización de procesos y calidad de software. Actualmente, desempeño el rol de **QA Analyst en Gopass**, asegurando la excelencia técnica en ecosistemas de movilidad. A través de **Paramo Labs S.A.S.**, lidero la arquitectura y desarrollo de soluciones innovadoras que transforman la experiencia digital.
 
