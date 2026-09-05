@@ -1,48 +1,77 @@
-# ¡Hola! Soy Jose Alarcón 👋
+# Jose Alarcón
+**Software & Product Analyst | QA | Automation & AI | Full-Stack Developer**
 
-### **QA Analyst | Full-Stack Developer | Founder of Paramo Labs S.A.S. 🏔️💻**
+Analista de Software y Producto con experiencia en QA, análisis funcional, UX/UI, desarrollo de aplicaciones web y automatización con Inteligencia Artificial. Fundador de **Paramo Labs S.A.S.**, donde diseño soluciones SaaS y agentes de IA orientados a optimizar procesos empresariales. 
 
-Soy un desarrollador y analista QA con un enfoque estratégico en la optimización de procesos y calidad de software. Actualmente, desempeño el rol de **QA Analyst en Gopass**, asegurando la excelencia técnica en ecosistemas de movilidad. A través de **Paramo Labs S.A.S.**, lidero la arquitectura y desarrollo de soluciones innovadoras que transforman la experiencia digital.
-
----
-
-## 🛠️ Expertise Tecnológico
-
-<div align="center">
-
-| **Core Backend** | **Modern Frontend** | **QA & DevTools** |
-| :--- | :--- | :--- |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-
-</div>
+Combino visión de negocio, entendimiento del usuario y arquitectura tecnológica para transformar problemas complejos en soluciones digitales eficientes y escalables.
 
 ---
 
-## 🚀 Proyectos de Alto Impacto
+## 🚀 Productos SaaS & Inteligencia Artificial
 
-* **🔧 [Mechanix System](https://github.com/Promto1979/Mechanix-System):** ERP integral para la gestión de talleres automotrices bajo arquitectura **MVC**, optimizando la trazabilidad operativa y financiera.
-* **🦷 [DentalSync](https://github.com/Promto1979/DentalSync):** Plataforma SaaS para la administración clínica odontológica, enfocada en UX y gestión de pacientes.
-* **📊 Módulo PQRS Automatizado:** Implementación de flujos lógicos para la gestión de peticiones y quejas, elevando los estándares de respuesta al cliente.
-* **🏆 Gopass CX Quality:** Aseguramiento de calidad enfocado en la experiencia del usuario (Customer Experience) para servicios vehiculares masivos.
+### [DentalSync](https://dentalsync.co) *(Core Project)*
+**Plataforma SaaS para administración clínica odontológica**
+Producto integral diseñado para digitalizar la gestión odontológica. Incluye arquitectura funcional, gestión de roles, dashboards, agenda, historia clínica, odontograma, periodontograma, facturación electrónica, RIPS y módulos de IA para diagnósticos y dictado por voz.
+* **Stack:** FastAPI, React, Vite, PostgreSQL, Supabase, Integración IA (Whisper/YOLOv8).
+* **Estado:** En desarrollo activo. *(Repositorio base: DentaraOS/dentaraos-app)*
+
+### Platform Agentia
+**SaaS de Automatización Inteligente con Agentes de IA**
+Solución orientada a automatizar diferentes áreas y procesos operativos de una organización (Paramo Labs). Analiza flujos de trabajo e implementa agentes de IA que interactúan con sistemas, APIs y usuarios para reducir la carga operativa.
+* **Tecnologías:** Agentes de IA, Workflows, APIs, Integraciones.
+* **Repositorio:** `paramolabs-Col/platformagentia`
+
+### Generador Creativo
+**Herramienta de automatización y generación de contenido con IA**
+Desarrollo orientado a la creación automatizada utilizando modelos de lenguaje y procesamiento de datos para optimizar flujos creativos.
+* **Repositorio:** `paramolabs-Col/generador-creativo`
+
+---
+
+## 💻 Desarrollo de Software & Sistemas ERP
+
+### Mechanix System
+**ERP Web para Gestión Integral de Talleres Automotrices**
+Sistema de gestión comercial y operativa que incluye: recepción y registro de vehículos, cotizaciones, control de mecánica general, electricidad, latonería, pintura y manejo de inventarios.
+* **Stack:** PHP, MySQL, Bootstrap.
+* **Repositorios:** `Promto1979/Mechanix-System` | `Ciro0279/Proyecto_Mech`
+
+### Sistema PQRS
+**Gestor de Peticiones, Quejas, Reclamos y Sugerencias**
+Aplicación orientada a procesos para el seguimiento y resolución de requerimientos de clientes, enfocada en mejorar la experiencia del usuario y los tiempos de respuesta.
+* **Stack:** FastAPI (Backend), React + Vite (Frontend).
+* **Repositorio:** `Promto1979/PQRS-System`
+
+### CijalaApp
+**Solución Tecnológica Empresarial**
+Aplicación en fase de desarrollo bajo la sombrilla de Paramo Labs S.A.S. para la resolución de flujos de negocio.
+* **Repositorio:** `paramolabs-Col/CijalaApp`
 
 ---
 
-## 🏁 Lifestyle & Interests
-* 🏎️ **Formula 1 Enthusiast:** Siguiendo la evolución técnica de la máxima categoría (Waiting for 2026 🏁).
-* 🏔️ **Hiking:** Amante del senderismo por los cerros orientales de Bogotá.
-* 🎮 **Gaming:** Estrategia y competitividad como motor de agilidad mental.
-* 📍 Basado en **Suba, Bogotá D.C., Colombia**.
+## 🛠️ Stack Tecnológico & Competencias
+
+* **Automatización & IA:** Agentes de IA, Workflows, Webhooks, n8n, Orquestación de procesos.
+* **Desarrollo Frontend:** JavaScript, React, Vite, Tailwind CSS.
+* **Desarrollo Backend:** Python, FastAPI, PHP.
+* **Bases de Datos:** MySQL, PostgreSQL, Supabase.
+* **Calidad y Diseño (QA/UX):** Pruebas de software, Análisis Funcional, Figma, Prototipado, User Journey.
+* **Herramientas & Infraestructura:** Git, GitHub, Docker, Vercel, Cloudflare, VS Code.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Promto1979&theme=radical&hide_border=true" alt="Racha de Jose" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Promto1979&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-</div>
+## 💼 Experiencia Destacada
+
+* **Gopass (Customer Operation Success S.A.S.)** | *UX / Producto / QA (2025 - 2026)*  
+  Diseño de experiencias de usuario, prototipos en Figma, validación de flujos, análisis de necesidades funcionales y pruebas de software.
+* **Paramo Labs S.A.S.** | *Founder & Tech Lead (Actualidad)*  
+  Desarrollo de software a medida, automatización de procesos empresariales y creación de productos SaaS (DentalSync, Platform Agentia).
 
 ---
+
+## 📬 Contacto
+* **LinkedIn:** [Perfil Profesional](https://www.linkedin.com/in/jose-alarcon-arco-93352725/)
+* **Email:** ciro0279@gmail.com
 
 <p align="center">
   <a href="mailto:tu-correo@ejemplo.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
