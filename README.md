@@ -1,4 +1,4 @@
-# Jose Alarcón
+# Jose Alarcon Arco
 **Software & Product Analyst | QA | Automation & AI | Full-Stack Developer**
 
 Analista de Software y Producto con experiencia en QA, análisis funcional, UX/UI, desarrollo de aplicaciones web y automatización con Inteligencia Artificial. Fundador de **Paramo Labs S.A.S.**, donde diseño soluciones SaaS y agentes de IA orientados a optimizar procesos empresariales. 
