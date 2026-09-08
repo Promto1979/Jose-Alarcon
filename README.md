@@ -21,7 +21,7 @@ Comprehensive product designed to digitize dental practice management. Includes 
 
 Solution focused on automating different areas and operational processes within an organization (Paramo Labs). Analyzes workflows and deploys AI agents that interact with systems, APIs, and users to reduce operational overhead.
 
-* **Technologies:** AI Agents, Workflows, APIs, Integrations.
+* **Technologies:** AI Agents, Workflows, APIs, Integrations, CI/CD (GitHub Actions), Sentry error monitoring.
 * **Roadmap:** RAG (pgvector + embeddings) integration for internal documentation retrieval.
 * **Repository:** `paramolabs-Col/platformagentia`
 
@@ -68,7 +68,7 @@ Application under development within Paramo Labs S.A.S., built to solve business
 * **Backend Development:** Python, FastAPI, Pydantic, SQLAlchemy, PHP.
 * **Databases:** MySQL, PostgreSQL, Supabase.
 * **Quality & Design (QA/UX):** Software Testing, Functional Analysis, Figma, Prototyping, User Journey.
-* **Tools & Infrastructure:** Git, GitHub, Docker, Vercel, DigitalOcean, Cloudflare, VS Code.
+* **Tools & Infrastructure:** Git, GitHub, Docker, Vercel, DigitalOcean, Cloudflare, VS Code, CI/CD (GitHub Actions), Sentry.
 
 ---
 
@@ -86,8 +86,3 @@ Application under development within Paramo Labs S.A.S., built to solve business
 
 * **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/jose-alarcon-arco-93352725/)
 * **Email:** ciro0279@gmail.com
-
-<p align="center">
-  <a href="mailto:tu-correo@ejemplo.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
-  <a href="https://linkedin.com/in/tu-perfil">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)</a>
-</p>
