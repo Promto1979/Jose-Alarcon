@@ -22,6 +22,7 @@ Comprehensive product designed to digitize dental practice management. Includes 
 Solution focused on automating different areas and operational processes within an organization (Paramo Labs). Analyzes workflows and deploys AI agents that interact with systems, APIs, and users to reduce operational overhead.
 
 * **Technologies:** AI Agents, Workflows, APIs, Integrations.
+* **Roadmap:** RAG (pgvector + embeddings) integration for internal documentation retrieval.
 * **Repository:** `paramolabs-Col/platformagentia`
 
 ### Creative Generator
@@ -64,10 +65,10 @@ Application under development within Paramo Labs S.A.S., built to solve business
 
 * **Automation & AI:** AI Agents, Model Context Protocol (MCP), Workflows, Webhooks, n8n, Process Orchestration.
 * **Frontend Development:** JavaScript, React, Vite, Tailwind CSS.
-* **Backend Development:** Python, FastAPI, PHP.
+* **Backend Development:** Python, FastAPI, Pydantic, SQLAlchemy, PHP.
 * **Databases:** MySQL, PostgreSQL, Supabase.
 * **Quality & Design (QA/UX):** Software Testing, Functional Analysis, Figma, Prototyping, User Journey.
-* **Tools & Infrastructure:** Git, GitHub, Docker, Vercel, Cloudflare, VS Code.
+* **Tools & Infrastructure:** Git, GitHub, Docker, Vercel, DigitalOcean, Cloudflare, VS Code.
 
 ---
 
